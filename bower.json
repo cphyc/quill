@@ -14,7 +14,6 @@
     "**/.*",
     "config",
     "examples",
-    "src",
     "test",
     "Gruntfile.coffee",
     "index.js",
